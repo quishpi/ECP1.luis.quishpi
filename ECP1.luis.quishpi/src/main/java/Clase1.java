@@ -25,4 +25,7 @@ public class Clase1 {
     public int cr2Suma(){
         return this.numero1+this.numero2;
     }
+    public int cr3Suma(){
+        return this.numero1+this.numero2;
+    }
 }
