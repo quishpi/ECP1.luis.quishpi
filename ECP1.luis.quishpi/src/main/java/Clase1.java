@@ -19,4 +19,7 @@ public class Clase1 {
     public int cambio3Multiplicar(){
         return this.numero1*this.numero2;
     }
+    public int develop4Suma(){
+        return this.numero1+this.numero2;
+    }
 }
