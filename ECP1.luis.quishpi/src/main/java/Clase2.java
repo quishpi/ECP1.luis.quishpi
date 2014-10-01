@@ -11,4 +11,7 @@ public class Clase2 {
     public int cd9GetPosicion(){
         return this.punto;
     }
+    public int fetchGetPosicion(){
+        return this.punto*8;
+    }
 }
