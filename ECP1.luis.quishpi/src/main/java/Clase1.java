@@ -31,4 +31,10 @@ public class Clase1 {
     public int cr2Suma(){
         return this.numero1+this.numero2;
     }
+    public int cd6Multiplica(){
+        return this.numero1*this.numero2;
+    }
+    public int cd7Multiplica(){
+        return this.numero1*this.numero2*2;
+    }
 }
