@@ -8,4 +8,7 @@ public class Clase2 {
     public int cd8Mover(int posicion){
         return this.punto+posicion;
     }
+    public int cd9GetPosicion(){
+        return this.punto;
+    }
 }
